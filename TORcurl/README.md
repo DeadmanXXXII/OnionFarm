@@ -125,7 +125,7 @@ cd curl-8.8.0
 Run the `./configure` script to prepare the build environment. You specifically enable SOCKS5 support here:
 
 ```bash
-./configure --with-socks5
+./configure --with-ssl
 ```
 
 ### 4. **Compile and Install `curl`**
